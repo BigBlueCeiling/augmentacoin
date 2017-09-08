@@ -1,26 +1,25 @@
-Litecoin Core integration/staging tree
+Augmentacoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
+http://www.bigblueceiling.com/
 
-https://litecoin.org
-
-What is Litecoin?
+What is Augmentacoin?
 ----------------
 
-Litecoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Litecoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Litecoin Core is the name of open source
-software which enables the use of this currency.
+Augmentacoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. The goal of Augmentacoin and the associated support code
+is to provide a native currency optimized for use in Augmented and Virtual Reality.
+Augmentacoin uses peer-to-peer technology to operate with no central authority: managing
+transactions and issuing money are carried out collectively by the network.
 
-For more information, as well as an immediately useable, binary version of
-the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
+Augmentacoin Core is the name of open source software which enables the use of this currency.
+It is principally based on a fork of Litecoin with features optimized to improve performance
+within the domain of mediated reality.
 
 License
 -------
 
-Litecoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Augmentacoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
@@ -70,10 +69,11 @@ Translations
 ------------
 
 We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-Translations are converted to Litecoin periodically.
+Translations are converted to Augmentacoin periodically.
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
 
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
++
